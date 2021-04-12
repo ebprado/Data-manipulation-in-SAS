@@ -1,2 +1,2 @@
-# Tutorial-ST464
-Step-by-step solution of the homework of ST462
+# Tutorial ST464
+This repository houses some of the solutions of the homework of ST462.
