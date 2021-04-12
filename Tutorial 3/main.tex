@@ -129,7 +129,7 @@ It's possible to answer this using two approaches: Factorisation Theorem or via 
 & = p^{\sum_{i=1}^{n} x_{i}} (1-p)^{ nk- \sum_{i=1}^{n}x_{i}} \prod_{i=1}^{n} \left[ {k \choose x_{i}} \right], \\
 & = g(T(\textbf{x}); p) h(\textbf{x}),
 \end{align}
-where $T(\textbf{x}) = \sum_{i=1}^{n} x_{i}-r$ is the sufficient statistics for $p$.
+where $T(\textbf{x}) = \sum_{i=1}^{n} x_{i}$ is the sufficient statistics for $p$.
 
 Another possibility is to use a corollary of the Factorisation theorem. To use it, we first need to find the MLE of the parameter of interest ($p$). 
 
@@ -154,7 +154,7 @@ We know that $\hat{p} = \sum_{i=1}^{n}x_{i}/nk$ is unbiased because
 & = \frac{kp}{k}, \\
 & = p.
 \end{align}
-In addition, recall that in a) we found that $T = \sum_{i=1}^{n}x_{i}$ is a sufficient statistics for $p$. However, by the Lehmann-Scheffe Theorem $T$ is a \textbf{complete sufficient statistics} for $p$ because the completeness of sufficient statistics holds for all exponential distributions (see section 4.3, page 6), which is the case of the Binomial distribution. Consequently, if $\mathbb{E}(\hat{p})$ is unbiased estimator and $T$ is a \textbf{complete sufficient statistics}, then $\hat{p}$ is BUE.
+In addition, recall that in a) we found that $T = \sum_{i=1}^{n}x_{i}$ is a sufficient statistics for $p$. However, by the Lehmann-Scheffe Theorem $T$ is a \textbf{complete sufficient statistics} for $p$ because the completeness of sufficient statistics holds for all distributions that belong to the exponential family (see section 4.3, page 6), which is the case of the Binomial distribution. Consequently, if $\mathbb{E}(\hat{p})$ is unbiased estimator and $T$ is a \textbf{complete sufficient statistics}, then $\hat{p}$ is BUE.
 
 \subsection*{Part c}
 
@@ -182,7 +182,7 @@ Hence, we can check that
 & = g(p).
 \end{align}
 
-In addition, we that $T = \sum_{i=1}^{n} x_{i}$ and that consequently $T \sim \mbox{Binomial}(nk, p)$. Now, let's recall the Rao-Blackwell Theorem.
+In addition, we know from a) that $T = \sum_{i=1}^{n} x_{i}$ and that consequently $T \sim \mbox{Binomial}(nk, p)$. Now, let's recall the Rao-Blackwell Theorem.
 
 \includegraphics[width=1\linewidth]{rao_blackwell.png}
 
