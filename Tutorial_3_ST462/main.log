@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.31)  21 APR 2021 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.10.31)  23 MAR 2022 11:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1585,8 +1585,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip94
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 49.
-Package hyperref Info: Option `linktocpage' set `true' on input line 49.
+Package hyperref Info: Option `colorlinks' set `true' on input line 47.
+Package hyperref Info: Option `linktocpage' set `true' on input line 47.
 
 
 ! LaTeX Error: Command \theorem already defined.
@@ -1596,7 +1596,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 ...labelsep {\bfseries #2.}]}{\end{trivlist}}
+l.53 ...labelsep {\bfseries #2.}]}{\end{trivlist}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1610,20 +1610,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 ...labelsep {\bfseries #2.}]}{\end{trivlist}}
+l.55 ...labelsep {\bfseries #2.}]}{\end{trivlist}}
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 LaTeX Font Info:    Try loading font information for T1+Heuristica-TLF on input
- line 75.
+ line 66.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/heuristica/T1Heuristica-TLF.fd
 File: T1Heuristica-TLF.fd 2015/01/04 (autoinst) Font definitions for T1/Heurist
 ica-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 75.
+(Font)              scaled to size 10.0pt on input line 66.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1639,56 +1639,56 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 66.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 66.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for T2B+cmr on input line 75.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 66.
+LaTeX Font Info:    Try loading font information for T2B+cmr on input line 66.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
 File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for T2C+cmr on input line 75.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 66.
+LaTeX Font Info:    Try loading font information for T2C+cmr on input line 66.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for LY1+ptm on input line 75.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 66.
+LaTeX Font Info:    Try loading font information for LY1+ptm on input line 66.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 75.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 66.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 75.
+(Font)              scaled to size 12.0pt on input line 66.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1734,10 +1734,10 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' not found.
 
 No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 75.
-Package biblatex Info: Reference segment=0 on input line 75.
+Package biblatex Info: Reference section=0 on input line 66.
+Package biblatex Info: Reference segment=0 on input line 66.
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring ON on input line 75.
+Package hyperref Info: Link coloring ON on input line 66.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1746,47 +1746,47 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count329
 )
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 79.
+(Font)              scaled to size 20.74pt on input line 70.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 79.
-LaTeX Font Info:    Try loading font information for U+msa on input line 79.
+(Font)              scaled to size 14.4pt on input line 70.
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 79.
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 80.
+(Font)              scaled to size 17.28pt on input line 71.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 80.
+(Font)              scaled to size 17.28pt on input line 71.
 
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 83.
+(amsmath)                 on input line 74.
 
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 86.
+(Font)              scaled to size 14.4pt on input line 77.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 87.
+(Font)              scaled to size 12.0pt on input line 78.
 <Definition_exponential_family.png, id=16, 964.5636pt x 303.0522pt>
 File: Definition_exponential_family.png Graphic file (type png)
 <use Definition_exponential_family.png>
 Package pdftex.def Info: Definition_exponential_family.png  used on input line 
-89.
+80.
 (pdftex.def)             Requested size: 469.75502pt x 147.59053pt.
 [1
 
@@ -1795,37 +1795,37 @@ ition_exponential_family.png>]
 <Factorisation_theorem.png, id=34, 964.5636pt x 278.9622pt>
 File: Factorisation_theorem.png Graphic file (type png)
 <use Factorisation_theorem.png>
-Package pdftex.def Info: Factorisation_theorem.png  used on input line 104.
+Package pdftex.def Info: Factorisation_theorem.png  used on input line 95.
 (pdftex.def)             Requested size: 469.75502pt x 135.85837pt.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 111.
+(Font)              scaled to size 8.0pt on input line 102.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 111.
+(Font)              scaled to size 6.0pt on input line 102.
  [2 <./Factorisation_theorem.png>]
 File: Factorisation_theorem.png Graphic file (type png)
 <use Factorisation_theorem.png>
-Package pdftex.def Info: Factorisation_theorem.png  used on input line 124.
+Package pdftex.def Info: Factorisation_theorem.png  used on input line 115.
 (pdftex.def)             Requested size: 469.75502pt x 135.85837pt.
 <corollary_factorisation_theorem.png, id=51, 648.021pt x 158.5122pt>
 File: corollary_factorisation_theorem.png Graphic file (type png)
 <use corollary_factorisation_theorem.png>
 Package pdftex.def Info: corollary_factorisation_theorem.png  used on input lin
-e 136.
+e 127.
 (pdftex.def)             Requested size: 469.75502pt x 114.90993pt.
  [3]
 <Leman_theorem.png, id=63, 762.6894pt x 211.5102pt>
 File: Leman_theorem.png Graphic file (type png)
 <use Leman_theorem.png>
-Package pdftex.def Info: Leman_theorem.png  used on input line 146.
+Package pdftex.def Info: Leman_theorem.png  used on input line 137.
 (pdftex.def)             Requested size: 469.75502pt x 130.27002pt.
  [4 <./corollary_factorisation_theorem.png> <./Leman_theorem.png>]
 <invariance.png, id=78, 762.6894pt x 140.2038pt>
 File: invariance.png Graphic file (type png)
 <use invariance.png>
-Package pdftex.def Info: invariance.png  used on input line 163.
+Package pdftex.def Info: invariance.png  used on input line 154.
 (pdftex.def)             Requested size: 469.75502pt x 86.3521pt.
 
-Overfull \hbox (3.57684pt too wide) in paragraph at lines 185--186
+Overfull \hbox (3.57684pt too wide) in paragraph at lines 176--177
 []\T1/Heuristica-TLF/m/n/12 In ad-di-tion, we know from a) that $\OML/cmm/m/it/
 12 T \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 x[]$ \T1/Heuristica-TLF/m/n/12 and
  that con-se-quently $\OML/cmm/m/it/12 T \OMS/cmsy/m/n/12 ^^X []\OT1/cmr/m/n/12
@@ -1835,15 +1835,15 @@ Overfull \hbox (3.57684pt too wide) in paragraph at lines 185--186
 <rao_blackwell.png, id=79, 838.8138pt x 196.5744pt>
 File: rao_blackwell.png Graphic file (type png)
 <use rao_blackwell.png>
-Package pdftex.def Info: rao_blackwell.png  used on input line 187.
+Package pdftex.def Info: rao_blackwell.png  used on input line 178.
 (pdftex.def)             Requested size: 469.75502pt x 110.0899pt.
 [5 <./invariance.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
  [6 <./rao_blackwell.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 882EF8E77DFE031870F7679CAA26EA5E;155.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1873,7 +1873,7 @@ r8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
 pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msb
 m10.pfb>
-Output written on main.pdf (6 pages, 813604 bytes).
+Output written on main.pdf (6 pages, 813598 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams
