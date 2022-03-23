@@ -1,2 +1,2 @@
-# Tutorial ST462
-This repository houses some of the solutions of the homework of ST462.
+# Solutions for ST462 and ST662
+This repository houses some of the tutorials for ST462 (Statistical inference) and ST662 (Topics in Data Analytics).
