@@ -1,6 +1,3 @@
-/* -------------------------------- */
-/* Tutorial 3: practice SAS macros  */
-/* -------------------------------- */
 
 /* There is a dataset in the SAS on-demand common class folder called EURmurders.csv. */
 
@@ -67,9 +64,7 @@ QUIT;
 %MEND PRINT_MEANS_COUNT;
 %PRINT_MEANS_COUNT;
 
-/* d) Produce a macro that will print out any countries with a zero value for a specific murder
- measure (rate or count), and identify the country with the highest and lowest murder measure
- for a specific year. */
+/* d) Produce a macro that will print out any countries with a zero value for a specific murder measure (rate or count), and identify the country with the highest and lowest murder measure for a specific year. */
 
 /* (1) Create a macro that has calling variables Dsn (dataset), Var_val (the variable of interest to study – for our sample dataset this is rate or count), Year_val (the value of the year of interest). */
 /* (2) Start with a proc means that identifies the lowest and highest values for the variable of interest and stores them in a new dataset. Hints: use the id statement. Your output statement might look like: */

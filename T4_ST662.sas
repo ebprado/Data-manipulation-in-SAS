@@ -1,5 +1,3 @@
-/* Assignment 4 - Topics in Data Analytics */
-
 /* Generated Code (IMPORT) */
 /* Source File: Dates.csv */
 /* Source Path: /home/estevaoprado200/ST662Lib */
@@ -18,7 +16,7 @@ RUN;
 
 PROC CONTENTS DATA=WORK.DATES; RUN;
 
-/*EXERCISE 1A*/
+/* 1A*/
 
 DATA WORK.DATES;
 	SET WORK.DATES;
@@ -29,7 +27,7 @@ DATE = MDY(MONTH, DAY,YEAR);
 
 RUN;
 
-/*EXERCISE 1B*/
+/* 1B*/
 
 DATA SCREEN_DATA;
 	SET WORK.DATES;
@@ -39,7 +37,7 @@ IF DATE < '01Jan2000'D OR DATE > '31Dec2015'D THEN OUTPUT SCREEN_DATA;
 
 RUN;
 
-/*EXERCISE 1C*/
+/* 1C*/
 
 /*SHOWN IN SCREEN_DATA*/
 
@@ -77,7 +75,7 @@ RUN;
 
 
 /*----------------------------------------------------------------------*/
-/*EXERCISE 2A*/
+/* 2A*/
 
 FILENAME REFFILE2 '/home/estevaoprado200/ST662Lib/Bricks.csv';
 
@@ -96,7 +94,7 @@ RUN;
 
 
 /*----------------------------------------------------------------------*/
-/*EXERCISE 2B*/
+/* 2B*/
 
 
 PROC SGPLOT DATA=BRICKS;
@@ -111,7 +109,7 @@ RUN;
 BEHAVIOUR.*/
 
 /*----------------------------------------------------------------------*/
-/*EXERCISE 2C*/
+/* 2C*/
 
 PROC ESM DATA=BRICKS OUT=PREDS PRINT=FORECASTS PLOT=(FORECASTS) LEAD=9 PRINT=ESTIMATES;
 ID DATE INTERVAL=QUARTER;
@@ -182,7 +180,7 @@ YAXIS LABELATTRS=(SIZE=12PT) VALUEATTRS=(SIZE=12PT) LABEL = 'DEPTH LAG1';
 RUN;
 
 /*----------------------------------------------------------------------*/
-/*EXERCISE 3C*/
+/* 3C*/
 
 /*Autocorrelation is the correlation between a time series and a lagged version of the time series.
 It is clear that there is very strong autocorrelation at lag 1 and that this decreases as the lag

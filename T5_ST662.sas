@@ -1,5 +1,4 @@
 /*
-Tutorial 1
 
 Read the Iris.csv dataset into SAS. Screen and clean the data, bearing the following in mind:
 

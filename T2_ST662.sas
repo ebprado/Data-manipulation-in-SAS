@@ -1,10 +1,3 @@
-/*=========================================================================================================*/
-
-/*
- Today's goals:
-	1 - Review the 2nd assignment step-by-step;
-	2 - Perform the same analysis by using the full database, i.e., for all sites, years and treatments.
-*/
 
 /*1A Download the biomass.csv dataset and read it into SAS.*/
 
@@ -84,10 +77,6 @@ RUN;
 	
 	/*1D Create a new dataset that provides the average annual yield for each site (i.e. averaged across all plots)*/
 	
-	/*1st - Me and the majority of the students understand in this way.
-			However, each site has more than one observation per plot.
-	 */
-	
 	PROC SQL;
 		CREATE TABLE ANNUAL_YIELD_SITE AS SELECT
 			SITE,
@@ -98,7 +87,7 @@ RUN;
 	;
 	QUIT;
 
-	/*2nd - Few students understand in this way. This one is more correct, given the structure of the data.*/
+	/*2nd - This one is more correct, given the structure of the data.*/
 	PROC SQL;
 		CREATE TABLE ANNUAL_YIELD_SITE AS SELECT
 			SITE,

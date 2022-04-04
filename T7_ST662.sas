@@ -1,4 +1,3 @@
-/*Tutorial 4*/
 
 /* Read through the SAS paper ‘Using PROC SGPLOT for Quick High-Quality Graphs’.
  Recreate the graphs in the paper – do NOT copy and paste code! Compare the 2012
