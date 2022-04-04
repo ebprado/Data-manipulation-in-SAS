@@ -1,2 +1,2 @@
-# Solutions for ST462 and ST662
-This repository houses some of the tutorials for ST462 (Statistical inference) and ST662 (Topics in Data Analytics).
+# Data manipulation in SAS 
+This repository houses some SAS scripts for ST662 (Topics in Data Analytics) and solutions of some exercise for ST462 (Statistical inference). 
